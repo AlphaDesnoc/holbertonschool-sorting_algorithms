@@ -17,3 +17,4 @@ void quick_sort_helper(int *array, int low, int high, size_t size)
 		quick_sort_helper(array, pi + 1, high, size);
 	}
 }
+

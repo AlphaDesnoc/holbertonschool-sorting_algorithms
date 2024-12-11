@@ -40,3 +40,4 @@ int partition(int *array, int low, int high, size_t size)
 
 	return (i + 1);
 }
+
