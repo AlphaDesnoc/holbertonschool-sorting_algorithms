@@ -48,7 +48,7 @@ int lomuto_partition(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort_helper- sorts array using quick sort algorithm
+ * quick_sort_helper - sorts array using quick sort algorithm
  * @array: array to be sorted
  * @low: starting index of the array
  * @high: ending index of the array
@@ -67,7 +67,7 @@ static void quick_sort_helper(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort - sotrs array using quick sort algorithm
+ * quick_sort - sorts array using quick sort algorithm
  * @array: array to be sorted
  * @size: size of the array
  */
